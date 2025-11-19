@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VanshikaThakur1930
+- 👋 Hi, I’m Vanshika Thakur
 - 👀 I’m interested in creating mindblowing projects.
-- 🌱 I’m currently learning JavaScript.
 - ⚡ Fun fact: Universe is a beautiful illusion.
 
 <!---
